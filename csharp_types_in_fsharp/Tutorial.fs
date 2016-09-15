@@ -1,4 +1,6 @@
-﻿//// This sample will guide you through elements of the F# language. 
+﻿namespace CsharpTypesInFsharp
+
+//// This sample will guide you through elements of the F# language. 
 
 ////
 //// *******************************************************************************************************

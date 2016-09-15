@@ -1,0 +1,10 @@
+C:\Development\fsharp_projects\csharp_types_in_fsharp\csharp_client\obj\Debug\csharp_client.csprojResolveAssemblyReference.cache
+C:\Development\fsharp_projects\csharp_types_in_fsharp\csharp_client\bin\Debug\csharp_client.exe.config
+C:\Development\fsharp_projects\csharp_types_in_fsharp\csharp_client\bin\Debug\csharp_client.exe
+C:\Development\fsharp_projects\csharp_types_in_fsharp\csharp_client\bin\Debug\csharp_client.pdb
+C:\Development\fsharp_projects\csharp_types_in_fsharp\csharp_client\bin\Debug\csharp_types_in_fsharp.exe
+C:\Development\fsharp_projects\csharp_types_in_fsharp\csharp_client\bin\Debug\FSharp.Core.dll
+C:\Development\fsharp_projects\csharp_types_in_fsharp\csharp_client\bin\Debug\csharp_types_in_fsharp.pdb
+C:\Development\fsharp_projects\csharp_types_in_fsharp\csharp_client\bin\Debug\FSharp.Core.xml
+C:\Development\fsharp_projects\csharp_types_in_fsharp\csharp_client\obj\Debug\csharp_client.exe
+C:\Development\fsharp_projects\csharp_types_in_fsharp\csharp_client\obj\Debug\csharp_client.pdb

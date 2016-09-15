@@ -1,0 +1,6 @@
+C:\Development\fsharp_projects\csharp_types_in_fsharp\csharp_types_in_fsharp\bin\Debug\csharp_types_in_fsharp.exe
+C:\Development\fsharp_projects\csharp_types_in_fsharp\csharp_types_in_fsharp\bin\Debug\csharp_types_in_fsharp.pdb
+C:\Development\fsharp_projects\csharp_types_in_fsharp\csharp_types_in_fsharp\bin\Debug\FSharp.Core.dll
+C:\Development\fsharp_projects\csharp_types_in_fsharp\csharp_types_in_fsharp\bin\Debug\FSharp.Core.xml
+C:\Development\fsharp_projects\csharp_types_in_fsharp\csharp_types_in_fsharp\obj\x86\Debug\csharp_types_in_fsharp.exe
+C:\Development\fsharp_projects\csharp_types_in_fsharp\csharp_types_in_fsharp\obj\x86\Debug\csharp_types_in_fsharp.pdb
